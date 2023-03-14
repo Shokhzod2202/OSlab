@@ -6,6 +6,7 @@
 *    I uploaded my repository link.
 *    I performed all the given tasks for Week 2, and uploaded my code via Ubuntu VMware to the remote Git repository.
 *    I updated the Github readme file.
+*    I created a Shell file and practiced useing it with sh command.
 
 
 ### Issues:
