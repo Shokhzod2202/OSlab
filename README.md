@@ -1,4 +1,4 @@
-#OSlab repo
+###OSlab repo
 
 ##WEEK2:
 
@@ -8,5 +8,5 @@
 *    I updated the Github readme file.
 
 
-### Issues:
+# Issues:
 * I couldn't use shell file properly as I wanted. e.g ->  I couldn't write a shell code that enables to write lines inside test.txt file.
